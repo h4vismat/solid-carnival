@@ -65,4 +65,4 @@ Cloudwatch was used as a monitoring tool. Alarms were setup for each of the jobs
 Cloudwatch and SNS have close integration with AWS services, Glue included, so it was a pretty straightforward decision.
 
 ### Queries
-Queries can ben found on src/queries/. Athena should be used to run them. Partitioning should be considered while writing queries in a professional setting.
+Queries can be found on src/queries/. Athena should be used to run them. Partitioning should be considered while writing queries in a professional setting.
